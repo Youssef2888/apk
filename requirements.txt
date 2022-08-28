@@ -1,0 +1,6 @@
+gtts
+praw
+telebot
+requests
+pyTelegramBotAPI
+bs4
